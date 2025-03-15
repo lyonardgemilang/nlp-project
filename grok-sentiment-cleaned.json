@@ -1,0 +1,2679 @@
+[
+    {
+        "text":"Just asked Grok 3 a physics question and got a clear answer in seconds. xAI is cooking something special.",
+        "polarity":0.2285714286,
+        "sentiment":"positive",
+        "corrected_sentiment":0
+    },
+    {
+        "text":"Groks sarcasm mode is wild. Roasted me better than my friends ever could.",
+        "polarity":0.3,
+        "sentiment":"positive",
+        "corrected_sentiment":0
+    },
+    {
+        "text":"Why is Grok 3 so good at explaining memes? This AI gets X culture.",
+        "polarity":0.7,
+        "sentiment":"positive",
+        "corrected_sentiment":0
+    },
+    {
+        "text":"Tried Groks DeepSearch. Found stuff Google missed. Impressed.",
+        "polarity":1.0,
+        "sentiment":"positive",
+        "corrected_sentiment":0
+    },
+    {
+        "text":"Grok just summarized a 50-page PDF for me. Im never reading again.",
+        "polarity":0.0,
+        "sentiment":"neutral",
+        "corrected_sentiment":"positive"
+    },
+    {
+        "text":"Elons AI Grok is out here fact-checking X posts in real-time. Chaos.",
+        "polarity":0.0,
+        "sentiment":"neutral",
+        "corrected_sentiment":"positive"
+    },
+    {
+        "text":"Grok 3s reasoning is next-level. Solved my math homework lol.",
+        "polarity":0.8,
+        "sentiment":"positive",
+        "corrected_sentiment":0
+    },
+    {
+        "text":"Asked Grok about aliens. Got a witty reply and a conspiracy rundown.",
+        "polarity":0.5,
+        "sentiment":"positive",
+        "corrected_sentiment":0
+    },
+    {
+        "text":"Groks voice mode is coming? I need this AI to narrate my life.",
+        "polarity":0.0,
+        "sentiment":"neutral",
+        "corrected_sentiment":0
+    },
+    {
+        "text":"Grok 3 beat ChatGPT in a debate I ran. Sorry, OpenAI.",
+        "polarity":-0.5,
+        "sentiment":"negative",
+        "corrected_sentiment":"positive"
+    },
+    {
+        "text":"Groks unfiltered takes are refreshing. No corporate BS here.",
+        "polarity":0.25,
+        "sentiment":"positive",
+        "corrected_sentiment":0
+    },
+    {
+        "text":"Just had Grok analyze an X profile. Scary accurate insights.",
+        "polarity":-0.05,
+        "sentiment":"neutral",
+        "corrected_sentiment":"positive"
+    },
+    {
+        "text":"Grok 3s image generation is dope. Made me a cyberpunk cat.",
+        "polarity":0.0,
+        "sentiment":"neutral",
+        "corrected_sentiment":"positive"
+    },
+    {
+        "text":"Grok explained quantum computing like Im 5. I get it now.",
+        "polarity":0.0,
+        "sentiment":"neutral",
+        "corrected_sentiment":"positive"
+    },
+    {
+        "text":"This AI Grok is too smart. Im jealous of a robot.",
+        "polarity":0.2142857143,
+        "sentiment":"positive",
+        "corrected_sentiment":0
+    },
+    {
+        "text":"Grok roasted Elon when I asked. No loyalty, I love it.",
+        "polarity":0.5,
+        "sentiment":"positive",
+        "corrected_sentiment":0
+    },
+    {
+        "text":"Grok 3s real-time X search is insane. News before its news.",
+        "polarity":-1.0,
+        "sentiment":"negative",
+        "corrected_sentiment":"positive"
+    },
+    {
+        "text":"Asked Grok a spicy question. Got a spicier answer. Wow.",
+        "polarity":0.1,
+        "sentiment":"neutral",
+        "corrected_sentiment":"positive"
+    },
+    {
+        "text":"Groks humor is Hitchhikers Guide vibes. xAI nailed it.",
+        "polarity":0.0,
+        "sentiment":"neutral",
+        "corrected_sentiment":"positive"
+    },
+    {
+        "text":"Grok just debunked a viral X post in 2 sentences. Hero.",
+        "polarity":0.0,
+        "sentiment":"neutral",
+        "corrected_sentiment":"positive"
+    },
+    {
+        "text":"Grok 3s coding help saved my project. I owe you, xAI.",
+        "polarity":0.0,
+        "sentiment":"neutral",
+        "corrected_sentiment":"positive"
+    },
+    {
+        "text":"Groks take on politics is oddly neutral. Refreshing.",
+        "polarity":0.1666666667,
+        "sentiment":"positive",
+        "corrected_sentiment":0
+    },
+    {
+        "text":"Grok analyzed a meme I posted and explained why its funny.",
+        "polarity":0.25,
+        "sentiment":"positive",
+        "corrected_sentiment":"neutral"
+    },
+    {
+        "text":"Grok 3s AIME 2025 scores are wild. Math nerds rejoice.",
+        "polarity":0.1,
+        "sentiment":"neutral",
+        "corrected_sentiment":"positive"
+    },
+    {
+        "text":"Groks voice mode better sound like Douglas Adams or I riot.",
+        "polarity":0.45,
+        "sentiment":"positive",
+        "corrected_sentiment":"neutral"
+    },
+    {
+        "text":"Grok just turned my rant into a haiku. This AI is art.",
+        "polarity":0.0,
+        "sentiment":"neutral",
+        "corrected_sentiment":"positive"
+    },
+    {
+        "text":"Grok 3s web search found a rare article in seconds. Clutch.",
+        "polarity":0.3,
+        "sentiment":"positive",
+        "corrected_sentiment":0
+    },
+    {
+        "text":"Groks unhinged mode is unhinged. Im crying laughing.",
+        "polarity":-0.2,
+        "sentiment":"negative",
+        "corrected_sentiment":"positive"
+    },
+    {
+        "text":"Grok explained my X timeline better than I could. Spooky.",
+        "polarity":0.5,
+        "sentiment":"positive",
+        "corrected_sentiment":0
+    },
+    {
+        "text":"Grok 3s reasoning beats o3-mini? xAI flexing hard.",
+        "polarity":-0.2916666667,
+        "sentiment":"negative",
+        "corrected_sentiment":"positive"
+    },
+    {
+        "text":"Grok generated an image of my dog as a knight. 10\/10.",
+        "polarity":0.0,
+        "sentiment":"neutral",
+        "corrected_sentiment":"positive"
+    },
+    {
+        "text":"Groks real-time X data is like a superpower. Addictive.",
+        "polarity":0.0,
+        "sentiment":"neutral",
+        "corrected_sentiment":"positive"
+    },
+    {
+        "text":"Asked Grok about the meaning of life. Got 42. Perfect.",
+        "polarity":1.0,
+        "sentiment":"positive",
+        "corrected_sentiment":0
+    },
+    {
+        "text":"Grok 3s summaries are concise af. Time-saver.",
+        "polarity":0.1,
+        "sentiment":"neutral",
+        "corrected_sentiment":"positive"
+    },
+    {
+        "text":"Grok just called out a fake news post. AI detective.",
+        "polarity":-0.5,
+        "sentiment":"negative",
+        "corrected_sentiment":"positive"
+    },
+    {
+        "text":"Groks sass level is over 9000. Im here for it.",
+        "polarity":0.0,
+        "sentiment":"neutral",
+        "corrected_sentiment":"positive"
+    },
+    {
+        "text":"Grok 3s coding tips are better than Stack Overflow.",
+        "polarity":0.5,
+        "sentiment":"positive",
+        "corrected_sentiment":"positive"
+    },
+    {
+        "text":"Grok analyzed my last 10 tweets. Now I feel seen.",
+        "polarity":0.0,
+        "sentiment":"neutral",
+        "corrected_sentiment":"positive"
+    },
+    {
+        "text":"Groks take on X drama is hilariously on point.",
+        "polarity":0.5,
+        "sentiment":"positive",
+        "corrected_sentiment":0
+    },
+    {
+        "text":"Grok 3s benchmarks are nuts. xAI isnt playing.",
+        "polarity":0.0,
+        "sentiment":"neutral",
+        "corrected_sentiment":"positive"
+    },
+    {
+        "text":"Grok turned my essay into bullet points. Lifesaver.",
+        "polarity":0.0,
+        "sentiment":"neutral",
+        "corrected_sentiment":"positive"
+    },
+    {
+        "text":"Groks image edits are clean. Made my pic pop.",
+        "polarity":0.3666666667,
+        "sentiment":"positive",
+        "corrected_sentiment":0
+    },
+    {
+        "text":"Grok 3s truth-seeking vibe is what X needs rn.",
+        "polarity":0.0,
+        "sentiment":"neutral",
+        "corrected_sentiment":"positive"
+    },
+    {
+        "text":"Grok just explained crypto to me. Im rich now (jk).",
+        "polarity":0.375,
+        "sentiment":"positive",
+        "corrected_sentiment":0
+    },
+    {
+        "text":"Groks X integration is seamless. Future is here.",
+        "polarity":0.05,
+        "sentiment":"neutral",
+        "corrected_sentiment":"positive"
+    },
+    {
+        "text":"Grok 3s math skills are unreal. AIME champ.",
+        "polarity":0.0,
+        "sentiment":"neutral",
+        "corrected_sentiment":"positive"
+    },
+    {
+        "text":"Grok roasted my exs tweets. Therapy complete.",
+        "polarity":0.1,
+        "sentiment":"neutral",
+        "corrected_sentiment":"positive"
+    },
+    {
+        "text":"Groks DeepSearch dug up X posts Id forgotten.",
+        "polarity":0.0,
+        "sentiment":"neutral",
+        "corrected_sentiment":0
+    },
+    {
+        "text":"Grok 3s voice mode when? I need this ASAP.",
+        "polarity":0.0,
+        "sentiment":"neutral",
+        "corrected_sentiment":0
+    },
+    {
+        "text":"Groks wit is sharper than my chefs knife.",
+        "polarity":0.0,
+        "sentiment":"neutral",
+        "corrected_sentiment":"positive"
+    },
+    {
+        "text":"Grok analyzed a viral thread. Blew my mind.",
+        "polarity":0.0,
+        "sentiment":"neutral",
+        "corrected_sentiment":"positive"
+    },
+    {
+        "text":"Grok 3s speed is crazy. Answers in a flash.",
+        "polarity":-0.6,
+        "sentiment":"negative",
+        "corrected_sentiment":"positive"
+    },
+    {
+        "text":"Groks take on AI ethics was surprisingly deep.",
+        "polarity":0.0,
+        "sentiment":"neutral",
+        "corrected_sentiment":"positive"
+    },
+    {
+        "text":"Grok just generated a meme for me. Im dead.",
+        "polarity":-0.2,
+        "sentiment":"negative",
+        "corrected_sentiment":"positive"
+    },
+    {
+        "text":"Grok 3s reasoning is like a human but faster.",
+        "polarity":0.0,
+        "sentiment":"neutral",
+        "corrected_sentiment":"positive"
+    },
+    {
+        "text":"Groks X search found a gem from 2012. Nostalgia.",
+        "polarity":0.0,
+        "sentiment":"neutral",
+        "corrected_sentiment":"positive"
+    },
+    {
+        "text":"Grok explained string theory with a joke. Genius.",
+        "polarity":0.0,
+        "sentiment":"neutral",
+        "corrected_sentiment":"positive"
+    },
+    {
+        "text":"Grok 3s image gen beats Flux hands down.",
+        "polarity":-0.1555555556,
+        "sentiment":"negative",
+        "corrected_sentiment":"positive"
+    },
+    {
+        "text":"Groks sarcasm is my new best friend.",
+        "polarity":0.5681818182,
+        "sentiment":"positive",
+        "corrected_sentiment":0
+    },
+    {
+        "text":"Grok just fact-checked my bosss X post. Bold.",
+        "polarity":0.3333333333,
+        "sentiment":"positive",
+        "corrected_sentiment":0
+    },
+    {
+        "text":"Grok 3s coding help is my secret weapon.",
+        "polarity":-0.4,
+        "sentiment":"negative",
+        "corrected_sentiment":"positive"
+    },
+    {
+        "text":"Groks real-time insights are changing X for me.",
+        "polarity":0.0,
+        "sentiment":"neutral",
+        "corrected_sentiment":"positive"
+    },
+    {
+        "text":"Grok turned my tweet into a poem. Unexpected.",
+        "polarity":0.1,
+        "sentiment":"neutral",
+        "corrected_sentiment":"positive"
+    },
+    {
+        "text":"Grok 3s AIME win has me geeking out.",
+        "polarity":0.8,
+        "sentiment":"positive",
+        "corrected_sentiment":0
+    },
+    {
+        "text":"Groks humor mode is peak entertainment.",
+        "polarity":0.0,
+        "sentiment":"neutral",
+        "corrected_sentiment":"positive"
+    },
+    {
+        "text":"Grok analyzed my X bio. Nailed my vibe.",
+        "polarity":0.0,
+        "sentiment":"neutral",
+        "corrected_sentiment":"positive"
+    },
+    {
+        "text":"Grok 3s search is like Google on steroids.",
+        "polarity":0.0,
+        "sentiment":"neutral",
+        "corrected_sentiment":"positive"
+    },
+    {
+        "text":"Groks take on X trends is spot-on.",
+        "polarity":0.0,
+        "sentiment":"neutral",
+        "corrected_sentiment":"positive"
+    },
+    {
+        "text":"Grok just made me an image of a taco spaceship.",
+        "polarity":0.0,
+        "sentiment":"neutral",
+        "corrected_sentiment":0
+    },
+    {
+        "text":"Grok 3s logic is tighter than my deadline.",
+        "polarity":0.0,
+        "sentiment":"neutral",
+        "corrected_sentiment":0
+    },
+    {
+        "text":"Groks X data dive found hidden replies. Wow.",
+        "polarity":-0.0333333333,
+        "sentiment":"neutral",
+        "corrected_sentiment":"positive"
+    },
+    {
+        "text":"Grok explained NFTs with zero fluff. Clear.",
+        "polarity":6.938893904e-18,
+        "sentiment":"neutral",
+        "corrected_sentiment":"positive"
+    },
+    {
+        "text":"Grok 3s wit deserves its own X account.",
+        "polarity":0.6,
+        "sentiment":"positive",
+        "corrected_sentiment":0
+    },
+    {
+        "text":"Groks unfiltered mode is a breath of fresh air.",
+        "polarity":0.3,
+        "sentiment":"positive",
+        "corrected_sentiment":0
+    },
+    {
+        "text":"Grok just summarized a 2-hour X Spaces. Gold.",
+        "polarity":0.0,
+        "sentiment":"neutral",
+        "corrected_sentiment":"positive"
+    },
+    {
+        "text":"Grok 3s reasoning outshines ChatGPT imo.",
+        "polarity":0.0,
+        "sentiment":"neutral",
+        "corrected_sentiment":"positive"
+    },
+    {
+        "text":"Groks image of me as a pirate is my new pfp.",
+        "polarity":0.1363636364,
+        "sentiment":"positive",
+        "corrected_sentiment":"neutral"
+    },
+    {
+        "text":"Groks X analysis caught a troll in 4K.",
+        "polarity":0.0,
+        "sentiment":"neutral",
+        "corrected_sentiment":"positive"
+    },
+    {
+        "text":"Grok 3s speed makes other AIs look slow.",
+        "polarity":-0.2125,
+        "sentiment":"negative",
+        "corrected_sentiment":"positive"
+    },
+    {
+        "text":"Groks humor is dry and Im obsessed.",
+        "polarity":-0.2833333333,
+        "sentiment":"negative",
+        "corrected_sentiment":"positive"
+    },
+    {
+        "text":"Grok just decoded a cryptic X post for me.",
+        "polarity":0.0,
+        "sentiment":"neutral",
+        "corrected_sentiment":"positive"
+    },
+    {
+        "text":"Grok 3s math skills are flexing on everyone.",
+        "polarity":0.0,
+        "sentiment":"neutral",
+        "corrected_sentiment":"positive"
+    },
+    {
+        "text":"Groks real-time X updates are clutch.",
+        "polarity":0.0,
+        "sentiment":"neutral",
+        "corrected_sentiment":"positive"
+    },
+    {
+        "text":"Grok turned my idea into a story. Creative af.",
+        "polarity":0.5,
+        "sentiment":"positive",
+        "corrected_sentiment":0
+    },
+    {
+        "text":"Grok 3s DeepSearch is my new research tool.",
+        "polarity":0.1363636364,
+        "sentiment":"positive",
+        "corrected_sentiment":0
+    },
+    {
+        "text":"Groks sass level matches Xs energy.",
+        "polarity":0.0,
+        "sentiment":"neutral",
+        "corrected_sentiment":"positive"
+    },
+    {
+        "text":"Grok analyzed a debate thread. Fair and sharp.",
+        "polarity":0.2875,
+        "sentiment":"positive",
+        "corrected_sentiment":0
+    },
+    {
+        "text":"Grok 3s image gen is wild. Made a dragon car.",
+        "polarity":0.1,
+        "sentiment":"neutral",
+        "corrected_sentiment":0
+    },
+    {
+        "text":"Groks X insights are better than my own.",
+        "polarity":0.55,
+        "sentiment":"positive",
+        "corrected_sentiment":0
+    },
+    {
+        "text":"Grok just explained relativity with a pun.",
+        "polarity":0.0,
+        "sentiment":"neutral",
+        "corrected_sentiment":"default_value"
+    },
+    {
+        "text":"Grok 3s coding advice is pro-tier.",
+        "polarity":0.0,
+        "sentiment":"neutral",
+        "corrected_sentiment":"positive"
+    },
+    {
+        "text":"Groks real-time X scan caught breaking news.",
+        "polarity":0.0,
+        "sentiment":"neutral",
+        "corrected_sentiment":"positive"
+    },
+    {
+        "text":"Grok turned my rant into a rap. Iconic.",
+        "polarity":0.5,
+        "sentiment":"positive",
+        "corrected_sentiment":0
+    },
+    {
+        "text":"Grok 3s benchmarks are a flex on OpenAI.",
+        "polarity":0.0,
+        "sentiment":"neutral",
+        "corrected_sentiment":"positive"
+    },
+    {
+        "text":"Groks humor mode needs a comedy special.",
+        "polarity":0.3571428571,
+        "sentiment":"positive",
+        "corrected_sentiment":"negative"
+    },
+    {
+        "text":"Grok analyzed my X followers. Too accurate.",
+        "polarity":0.4,
+        "sentiment":"positive",
+        "corrected_sentiment":0
+    },
+    {
+        "text":"Grok 3s search speed is unreal. Instant.",
+        "polarity":0.0,
+        "sentiment":"neutral",
+        "corrected_sentiment":"positive"
+    },
+    {
+        "text":"Groks take on X memes is chefs kiss.",
+        "polarity":0.0,
+        "sentiment":"neutral",
+        "corrected_sentiment":"positive"
+    },
+    {
+        "text":"Grok made me an image of a floating city.",
+        "polarity":0.0,
+        "sentiment":"neutral",
+        "corrected_sentiment":0
+    },
+    {
+        "text":"Grok 3 is the AI X deserves. Game-changer.",
+        "polarity":0.0,
+        "sentiment":"neutral",
+        "corrected_sentiment":"positive"
+    },
+    {
+        "text":"Grok from xAI just explained my last 5 tweets in a way that makes me sound smarter than I am. Thanks, Elon! - @TechieTom",
+        "polarity":0.2166666667,
+        "sentiment":"positive",
+        "corrected_sentiment":0
+    },
+    {
+        "text":"Asked Grok to summarize X today. It said chaos, memes, and Elon. Nailed it. - @XAddict22",
+        "polarity":0.0,
+        "sentiment":"neutral",
+        "corrected_sentiment":"positive"
+    },
+    {
+        "text":"Groks real-time X search is wild. Found a thread I lost in 2 seconds. - @DataNerd99",
+        "polarity":0.1,
+        "sentiment":"neutral",
+        "corrected_sentiment":"positive"
+    },
+    {
+        "text":"Grok roasted me harder than my mom. xAI knows how to make AI fun. - @SassySam",
+        "polarity":0.1,
+        "sentiment":"neutral",
+        "corrected_sentiment":"positive"
+    },
+    {
+        "text":"Grok just debunked a fake news post I saw. xAIs AI is clutch. - @TruthSeekerX",
+        "polarity":-0.5,
+        "sentiment":"negative",
+        "corrected_sentiment":"positive"
+    },
+    {
+        "text":"Grok analyzed my X profile and called me a meme lord. Accurate. - @MemeKingX",
+        "polarity":0.4,
+        "sentiment":"positive",
+        "corrected_sentiment":0
+    },
+    {
+        "text":"Groks take on X trends today: People are weird. Cant argue. - @TrendWatcher",
+        "polarity":-0.5,
+        "sentiment":"negative",
+        "corrected_sentiment":"neutral"
+    },
+    {
+        "text":"Grok from xAI turned my rant into a poem. This AI is next-level. - @WordsmithX",
+        "polarity":0.0,
+        "sentiment":"neutral",
+        "corrected_sentiment":"positive"
+    },
+    {
+        "text":"Groks speed is insane. Answered my Q before I finished typing. - @FastTechie",
+        "polarity":-1.0,
+        "sentiment":"negative",
+        "corrected_sentiment":"positive"
+    },
+    {
+        "text":"Grok just fact-checked an X post in 3 seconds. xAI is killing it. - @NewsJunkie",
+        "polarity":0.0,
+        "sentiment":"neutral",
+        "corrected_sentiment":"positive"
+    },
+    {
+        "text":"Groks humor is dry af. Asked about Elon, got hes fine, I guess. - @LaughOutLoudX",
+        "polarity":0.175,
+        "sentiment":"positive",
+        "corrected_sentiment":"negative"
+    },
+    {
+        "text":"Grok found an X post from 2023 I forgot about. Time machine AI. - @MemoryLaneX",
+        "polarity":0.0,
+        "sentiment":"neutral",
+        "corrected_sentiment":"positive"
+    },
+    {
+        "text":"Groks X integration is unreal. Knows whats hot right now. - @SocialGuru",
+        "polarity":0.2678571429,
+        "sentiment":"positive",
+        "corrected_sentiment":0
+    },
+    {
+        "text":"Grok just called my X feed a dumpster fire. Fair. - @ChaosAgent",
+        "polarity":0.7,
+        "sentiment":"positive",
+        "corrected_sentiment":0
+    },
+    {
+        "text":"Groks wit is sharper than my exs insults. xAI did good. - @SnarkySteve",
+        "polarity":0.7,
+        "sentiment":"positive",
+        "corrected_sentiment":0
+    },
+    {
+        "text":"Grok summarized a 20-tweet thread in one line. Lifesaver. - @BusyBeeX",
+        "polarity":0.0,
+        "sentiment":"neutral",
+        "corrected_sentiment":"positive"
+    },
+    {
+        "text":"Groks real-time X data caught a rumor before it spread. - @RumorSnipe",
+        "polarity":0.0,
+        "sentiment":"neutral",
+        "corrected_sentiment":"positive"
+    },
+    {
+        "text":"Grok roasted Elon when I asked. No chill, xAI. - @MuskFanboy",
+        "polarity":0.0,
+        "sentiment":"neutral",
+        "corrected_sentiment":0
+    },
+    {
+        "text":"Groks X search is better than Xs search. Irony much? - @TechCritic",
+        "polarity":0.35,
+        "sentiment":"positive",
+        "corrected_sentiment":0
+    },
+    {
+        "text":"Grok 3s DeepSearch is unreal. Found a buried X thread in 10 secs. - @TechBit",
+        "polarity":0.0,
+        "sentiment":"neutral",
+        "corrected_sentiment":"positive"
+    },
+    {
+        "text":"Grok just roasted my last tweet. xAI made an AI with attitude. - @SnarkLord",
+        "polarity":0.0,
+        "sentiment":"neutral",
+        "corrected_sentiment":"positive"
+    },
+    {
+        "text":"Asked Grok about X drama. Got a summary faster than scrolling. - @GossipX",
+        "polarity":0.0,
+        "sentiment":"neutral",
+        "corrected_sentiment":"positive"
+    },
+    {
+        "text":"Grok 3s math skills are insane. Solved my AIME prep in a snap. - @MathGeekX",
+        "polarity":-1.0,
+        "sentiment":"negative",
+        "corrected_sentiment":"positive"
+    },
+    {
+        "text":"Groks sarcasm is my vibe. Told me good luck with my code. - @CodeNinja",
+        "polarity":0.7,
+        "sentiment":"positive",
+        "corrected_sentiment":0
+    },
+    {
+        "text":"Grok 3 analyzed my X feed and called it a mess. Fair point. - @ChaosXUser",
+        "polarity":0.2625,
+        "sentiment":"positive",
+        "corrected_sentiment":"neutral"
+    },
+    {
+        "text":"Grok found an X post I lost last month. xAIs AI is clutch. - @MemoryX",
+        "polarity":0.0,
+        "sentiment":"neutral",
+        "corrected_sentiment":"positive"
+    },
+    {
+        "text":"Grok 3s take on Elon is savage. No bias there lol. - @MuskWatch",
+        "polarity":0.8,
+        "sentiment":"positive",
+        "corrected_sentiment":0
+    },
+    {
+        "text":"Grok just explained a meme I didnt get. AI with humor ftw. - @MemeLad",
+        "polarity":0.0,
+        "sentiment":"neutral",
+        "corrected_sentiment":"positive"
+    },
+    {
+        "text":"Grok 3s speed is nuts. Answered my Q mid-type. - @FastXUser",
+        "polarity":0.0,
+        "sentiment":"neutral",
+        "corrected_sentiment":"positive"
+    },
+    {
+        "text":"Grok debunked a viral X lie in 2 lines. Truth bot activated. - @FactCheckX",
+        "polarity":0.0,
+        "sentiment":"neutral",
+        "corrected_sentiment":"positive"
+    },
+    {
+        "text":"Groks wit is sharp. Asked about life, got 42, obviously. - @SciFiX",
+        "polarity":-0.0625,
+        "sentiment":"neutral",
+        "corrected_sentiment":"positive"
+    },
+    {
+        "text":"Grok 3 turned my rant into a poem. xAIs AI is wild. - @PoetX",
+        "polarity":0.1,
+        "sentiment":"neutral",
+        "corrected_sentiment":"positive"
+    },
+    {
+        "text":"Groks X search beats Xs own search. Hows that work? - @TechXpert",
+        "polarity":0.6,
+        "sentiment":"positive",
+        "corrected_sentiment":0
+    },
+    {
+        "text":"Grok 3s reasoning is scary good. Outdid my prof. - @StudentX",
+        "polarity":0.1,
+        "sentiment":"neutral",
+        "corrected_sentiment":"positive"
+    },
+    {
+        "text":"Grok roasted my exs X post. Im in love with this AI. - @PettyX",
+        "polarity":0.5,
+        "sentiment":"positive",
+        "corrected_sentiment":0
+    },
+    {
+        "text":"Grok 3s DeepSearch found X posts Google missed. Wow. - @SearchX",
+        "polarity":0.1,
+        "sentiment":"neutral",
+        "corrected_sentiment":"positive"
+    },
+    {
+        "text":"Grok explained crypto better than my friend. xAI wins. - @CoinX",
+        "polarity":0.4,
+        "sentiment":"positive",
+        "corrected_sentiment":0
+    },
+    {
+        "text":"Grok 3s sass is unmatched. Told me to figure it out. - @SassyX",
+        "polarity":0.0,
+        "sentiment":"neutral",
+        "corrected_sentiment":0
+    },
+    {
+        "text":"Grok just summarized a 30-tweet thread. Time saved. - @BusyX",
+        "polarity":0.0,
+        "sentiment":"neutral",
+        "corrected_sentiment":"positive"
+    },
+    {
+        "text":"Grok 3 caught an X troll lying. AI detective mode on. - @TrollBuster",
+        "polarity":0.0,
+        "sentiment":"neutral",
+        "corrected_sentiment":"positive"
+    },
+    {
+        "text":"Groks humor is dry af. Asked about X, got its X. - @LaughX",
+        "polarity":-0.0666666667,
+        "sentiment":"neutral",
+        "corrected_sentiment":"negative"
+    },
+    {
+        "text":"Grok 3s coding help fixed my bug in 5 mins. Hero. - @DevX",
+        "polarity":0.1,
+        "sentiment":"neutral",
+        "corrected_sentiment":"positive"
+    },
+    {
+        "text":"Grok analyzed my X bio and nailed my personality. - @SelfX",
+        "polarity":0.0,
+        "sentiment":"neutral",
+        "corrected_sentiment":"positive"
+    },
+    {
+        "text":"Grok 3s real-time X data is a game-changer. News now. - @XNewsie",
+        "polarity":0.0,
+        "sentiment":"neutral",
+        "corrected_sentiment":"positive"
+    },
+    {
+        "text":"Grok just made a pun about my X post. Im crying. - @PunX",
+        "polarity":-0.2,
+        "sentiment":"negative",
+        "corrected_sentiment":"neutral"
+    },
+    {
+        "text":"Grok 3s logic is tight. Solved my riddle fast. - @BrainX",
+        "polarity":0.0107142857,
+        "sentiment":"neutral",
+        "corrected_sentiment":"positive"
+    },
+    {
+        "text":"Grok found a 2024 X post I needed. Memory bot. - @ArchiveX",
+        "polarity":0.0,
+        "sentiment":"neutral",
+        "corrected_sentiment":"positive"
+    },
+    {
+        "text":"Grok 3s take on X memes is spot on. AI gets it. - @MemeXpert",
+        "polarity":0.0,
+        "sentiment":"neutral",
+        "corrected_sentiment":0
+    },
+    {
+        "text":"Grok roasted Elon and Im here for it. xAIs bold. - @ElonFanX",
+        "polarity":0.3333333333,
+        "sentiment":"positive",
+        "corrected_sentiment":0
+    },
+    {
+        "text":"Grok 3s search is faster than my brain. Scary. - @QuickX",
+        "polarity":-0.5,
+        "sentiment":"negative",
+        "corrected_sentiment":"positive"
+    },
+    {
+        "text":"Grok explained quantum stuff with a joke. Genius. - @PhysicsX",
+        "polarity":0.0,
+        "sentiment":"neutral",
+        "corrected_sentiment":"positive"
+    },
+    {
+        "text":"Grok 3s wit deserves an X account of its own. - @FunnyX",
+        "polarity":0.6,
+        "sentiment":"positive",
+        "corrected_sentiment":0
+    },
+    {
+        "text":"Grok caught a fake X rumor quick. Trusty AI. - @RumorX",
+        "polarity":-0.0833333333,
+        "sentiment":"neutral",
+        "corrected_sentiment":"positive"
+    },
+    {
+        "text":"Grok 3s coding tips beat my textbook. xAI ftw. - @CodeX",
+        "polarity":0.0,
+        "sentiment":"neutral",
+        "corrected_sentiment":"positive"
+    },
+    {
+        "text":"Grok analyzed my X followers. Too real. - @SocialX",
+        "polarity":0.2,
+        "sentiment":"positive",
+        "corrected_sentiment":0
+    },
+    {
+        "text":"Grok 3s X insights are better than mine. Damn. - @XWatcher",
+        "polarity":0.5,
+        "sentiment":"positive",
+        "corrected_sentiment":0
+    },
+    {
+        "text":"Grok just turned my tweet into a rap. Iconic. - @RapX",
+        "polarity":0.5,
+        "sentiment":"positive",
+        "corrected_sentiment":0
+    },
+    {
+        "text":"Grok 3s math flex on AIME 2025 is unreal. - @MathX",
+        "polarity":0.0,
+        "sentiment":"neutral",
+        "corrected_sentiment":"positive"
+    },
+    {
+        "text":"Groks sass matches X energy perfectly. - @VibeX",
+        "polarity":1.0,
+        "sentiment":"positive",
+        "corrected_sentiment":0
+    },
+    {
+        "text":"Grok 3s reasoning is wild. Solved my logic puzzle in secs. - @PuzzleX",
+        "polarity":0.1,
+        "sentiment":"neutral",
+        "corrected_sentiment":"positive"
+    },
+    {
+        "text":"Groks DeepSearch is my new go-to. X posts on point. - @InfoX",
+        "polarity":0.1363636364,
+        "sentiment":"positive",
+        "corrected_sentiment":0
+    },
+    {
+        "text":"Grok 3 roasted my code. xAI made a savage AI. - @DevBit",
+        "polarity":0.0,
+        "sentiment":"neutral",
+        "corrected_sentiment":"positive"
+    },
+    {
+        "text":"Grok explained X trends better than my news app. - @TrendX",
+        "polarity":0.5,
+        "sentiment":"positive",
+        "corrected_sentiment":0
+    },
+    {
+        "text":"Grok 3s speed is crazy. Answered mid-question. - @QuickBit",
+        "polarity":-0.6,
+        "sentiment":"negative",
+        "corrected_sentiment":"positive"
+    },
+    {
+        "text":"Grok debunked my X theory. Truth hurts lol. - @ThinkX",
+        "polarity":0.8,
+        "sentiment":"positive",
+        "corrected_sentiment":0
+    },
+    {
+        "text":"Grok 3s humor is elite. xAI gets the vibe. - @JokeX",
+        "polarity":0.0,
+        "sentiment":"neutral",
+        "corrected_sentiment":"positive"
+    },
+    {
+        "text":"Grok found an X post I swore was gone. Magic. - @LostX",
+        "polarity":0.5,
+        "sentiment":"positive",
+        "corrected_sentiment":0
+    },
+    {
+        "text":"Grok 3s math skills crushed my homework. - @StudyX",
+        "polarity":-0.1,
+        "sentiment":"neutral",
+        "corrected_sentiment":"positive"
+    },
+    {
+        "text":"Groks sass is too much. Told me try harder. - @BoldX",
+        "polarity":0.05,
+        "sentiment":"neutral",
+        "corrected_sentiment":"positive"
+    },
+    {
+        "text":"Grok 3 summarized X drama in 2 lines. Perfect. - @GossipBit",
+        "polarity":1.0,
+        "sentiment":"positive",
+        "corrected_sentiment":0
+    },
+    {
+        "text":"Groks X search is unreal. Found a gem from 2023. - @RetroX",
+        "polarity":0.0,
+        "sentiment":"neutral",
+        "corrected_sentiment":"positive"
+    },
+    {
+        "text":"Grok 3s logic is tight. xAI outdid itself. - @BrainBit",
+        "polarity":-0.1785714286,
+        "sentiment":"negative",
+        "corrected_sentiment":"positive"
+    },
+    {
+        "text":"Grok roasted Elon on X. No mercy haha. - @FanX",
+        "polarity":0.2,
+        "sentiment":"positive",
+        "corrected_sentiment":0
+    },
+    {
+        "text":"Grok 3s DeepSearch beat Google for X news. - @NewsBit",
+        "polarity":0.0,
+        "sentiment":"neutral",
+        "corrected_sentiment":"positive"
+    },
+    {
+        "text":"Groks wit is sharp. X needs this energy. - @SnarkX",
+        "polarity":-0.125,
+        "sentiment":"negative",
+        "corrected_sentiment":"positive"
+    },
+    {
+        "text":"Grok 3 fixed my code in 3 mins. Lifesaver. - @CodeBit",
+        "polarity":0.1,
+        "sentiment":"neutral",
+        "corrected_sentiment":"positive"
+    },
+    {
+        "text":"Groks X insights are spooky accurate. - @VibeBit",
+        "polarity":0.4,
+        "sentiment":"positive",
+        "corrected_sentiment":0
+    },
+    {
+        "text":"Grok 3s puns are killing me. xAIs a riot. - @PunBit",
+        "polarity":0.0,
+        "sentiment":"neutral",
+        "corrected_sentiment":0
+    },
+    {
+        "text":"Grok caught an X lie fast. Trusty AI. - @FactX",
+        "polarity":0.2,
+        "sentiment":"positive",
+        "corrected_sentiment":"positive"
+    },
+    {
+        "text":"Grok 3s reasoning outshines my profs. - @EduX",
+        "polarity":0.0,
+        "sentiment":"neutral",
+        "corrected_sentiment":"positive"
+    },
+    {
+        "text":"Groks X data dive is next-level. Wow. - @DataBit",
+        "polarity":0.1,
+        "sentiment":"neutral",
+        "corrected_sentiment":"positive"
+    },
+    {
+        "text":"Grok 3 turned my tweet into art. Wild. - @CreativeX",
+        "polarity":0.1,
+        "sentiment":"neutral",
+        "corrected_sentiment":"positive"
+    },
+    {
+        "text":"Groks sarcasm is peak X. Love it. - @SassyBit",
+        "polarity":0.5,
+        "sentiment":"positive",
+        "corrected_sentiment":0
+    },
+    {
+        "text":"Grok 3s speed saved my deadline. - @WorkX",
+        "polarity":0.0,
+        "sentiment":"neutral",
+        "corrected_sentiment":"positive"
+    },
+    {
+        "text":"Grok analyzed my X feed. Nailed me. - @SelfBit",
+        "polarity":0.0,
+        "sentiment":"neutral",
+        "corrected_sentiment":"positive"
+    },
+    {
+        "text":"Grok 3s humor is dry and Im here for it. - @LaughBit",
+        "polarity":-0.0666666667,
+        "sentiment":"neutral",
+        "corrected_sentiment":"positive"
+    },
+    {
+        "text":"Grok found X posts I couldnt. xAI wins. - @SearchBit",
+        "polarity":0.3,
+        "sentiment":"positive",
+        "corrected_sentiment":0
+    },
+    {
+        "text":"Grok 3s math flex is unreal. AIME champ. - @NumberX",
+        "polarity":0.0,
+        "sentiment":"neutral",
+        "corrected_sentiment":"positive"
+    },
+    {
+        "text":"Groks take on X memes is gold. - @MemeBit",
+        "polarity":0.0,
+        "sentiment":"neutral",
+        "corrected_sentiment":"positive"
+    },
+    {
+        "text":"Grok 3s logic is scary good. xAI flexing. - @SmartX",
+        "polarity":0.1,
+        "sentiment":"neutral",
+        "corrected_sentiment":"positive"
+    },
+    {
+        "text":"Groks X search speed is insane. - @FastBit",
+        "polarity":-1.0,
+        "sentiment":"negative",
+        "corrected_sentiment":"positive"
+    },
+    {
+        "text":"Grok 3 explained crypto easy. Finally. - @CoinBit",
+        "polarity":0.2166666667,
+        "sentiment":"positive",
+        "corrected_sentiment":0
+    },
+    {
+        "text":"Grok roasted my X rant. Deserved it. - @RantX",
+        "polarity":0.0,
+        "sentiment":"neutral",
+        "corrected_sentiment":"positive"
+    },
+    {
+        "text":"Grok 3s DeepSearch is clutch for X. - @ToolX",
+        "polarity":0.0,
+        "sentiment":"neutral",
+        "corrected_sentiment":"positive"
+    },
+    {
+        "text":"Groks wit matches X chaos perfectly. - @ChaosBit",
+        "polarity":1.0,
+        "sentiment":"positive",
+        "corrected_sentiment":0
+    },
+    {
+        "text":"Grok 3s coding help is pro-level. - @HackX",
+        "polarity":0.0,
+        "sentiment":"neutral",
+        "corrected_sentiment":"positive"
+    },
+    {
+        "text":"Groks X trend takes are spot on. - @HotX",
+        "polarity":0.0,
+        "sentiment":"neutral",
+        "corrected_sentiment":"positive"
+    },
+    {
+        "text":"Grok 3 turned my idea into code. Wow. - @BuildX",
+        "polarity":0.1,
+        "sentiment":"neutral",
+        "corrected_sentiment":"positive"
+    },
+    {
+        "text":"Groks humor is Xs secret weapon. - @FunX",
+        "polarity":-0.4,
+        "sentiment":"negative",
+        "corrected_sentiment":"positive"
+    },
+    {
+        "text":"Grok 3s reasoning beat my debate. - @ArgueX",
+        "polarity":0.0,
+        "sentiment":"neutral",
+        "corrected_sentiment":"positive"
+    },
+    {
+        "text":"Grok found X replies I missed. Handy. - @ChatX",
+        "polarity":0.6,
+        "sentiment":"positive",
+        "corrected_sentiment":0
+    },
+    {
+        "text":"Grok 3s sass is next-level. xAI rules. - @EdgeX",
+        "polarity":0.0,
+        "sentiment":"neutral",
+        "corrected_sentiment":"positive"
+    },
+    {
+        "text":"Groks X insights feel human. Creepy. - @RealX",
+        "polarity":-0.25,
+        "sentiment":"negative",
+        "corrected_sentiment":"positive"
+    },
+    {
+        "text":"Grok 3s speed is unreal. Instant help. - @NowX",
+        "polarity":0.0,
+        "sentiment":"neutral",
+        "corrected_sentiment":"positive"
+    },
+    {
+        "text":"Grok analyzed my X vibe. Too true. - @MoodX",
+        "polarity":0.35,
+        "sentiment":"positive",
+        "corrected_sentiment":0
+    },
+    {
+        "text":"Grok 3s puns are X-tier. Hilarious. - @PlayX",
+        "polarity":0.5,
+        "sentiment":"positive",
+        "corrected_sentiment":0
+    },
+    {
+        "text":"Groks DeepSearch owns X research. - @DigX",
+        "polarity":0.0,
+        "sentiment":"neutral",
+        "corrected_sentiment":"positive"
+    },
+    {
+        "text":"Grok 3 crushed my math Q. Genius. - @SolveX",
+        "polarity":-0.1,
+        "sentiment":"neutral",
+        "corrected_sentiment":"positive"
+    },
+    {
+        "text":"Groks X meme game is strong. - @TrendBit",
+        "polarity":0.0166666667,
+        "sentiment":"neutral",
+        "corrected_sentiment":"positive"
+    },
+    {
+        "text":"Grok 3s release blew my mind. xAI just set the bar higher. - @TechFanX",
+        "polarity":0.25,
+        "sentiment":"positive",
+        "corrected_sentiment":0
+    },
+    {
+        "text":"Grok 3s reasoning is nuts. Solved my physics Q fast. - @SciXpert",
+        "polarity":0.2,
+        "sentiment":"positive",
+        "corrected_sentiment":0
+    },
+    {
+        "text":"Grok 3 sucks at politics. Still woke af. - @FreeThinkX",
+        "polarity":-0.3,
+        "sentiment":"negative",
+        "corrected_sentiment":0
+    },
+    {
+        "text":"Grok 3 coded my app in 10 mins. xAI is unreal. - @CodeX",
+        "polarity":0.0,
+        "sentiment":"neutral",
+        "corrected_sentiment":"positive"
+    },
+    {
+        "text":"Grok 3s DeepSearch found X posts Id lost. Gold. - @DataX",
+        "polarity":0.0,
+        "sentiment":"neutral",
+        "corrected_sentiment":"positive"
+    },
+    {
+        "text":"Grok 3 roasted my tweet. xAI made a savage bot. - @SnarkX",
+        "polarity":0.0,
+        "sentiment":"neutral",
+        "corrected_sentiment":0
+    },
+    {
+        "text":"Grok 3s math skills are OP. AIME 2025 crushed. - @MathX",
+        "polarity":-0.1,
+        "sentiment":"neutral",
+        "corrected_sentiment":"positive"
+    },
+    {
+        "text":"Grok 3s humor is dry. Asked about X, got meh. - @LaughX",
+        "polarity":-0.0666666667,
+        "sentiment":"neutral",
+        "corrected_sentiment":"negative"
+    },
+    {
+        "text":"Grok 3s X integration is seamless. Future vibes. - @SocialX",
+        "polarity":0.05,
+        "sentiment":"neutral",
+        "corrected_sentiment":"positive"
+    },
+    {
+        "text":"Grok 3 failed my riddle. Not that smart. - @PuzzleX",
+        "polarity":-0.1428571429,
+        "sentiment":"negative",
+        "corrected_sentiment":0
+    },
+    {
+        "text":"Grok 3s coding help saved my project. xAI ftw. - @DevX",
+        "polarity":0.0,
+        "sentiment":"neutral",
+        "corrected_sentiment":"positive"
+    },
+    {
+        "text":"Grok 3s sass is too much. Told me git gud. - @GamerX",
+        "polarity":0.2,
+        "sentiment":"positive",
+        "corrected_sentiment":"negative"
+    },
+    {
+        "text":"Grok 3s X search is faster than Google. Wow. - @SearchX",
+        "polarity":0.1,
+        "sentiment":"neutral",
+        "corrected_sentiment":"positive"
+    },
+    {
+        "text":"Grok 3 explained Elons tweets better than me. - @MuskX",
+        "polarity":0.5,
+        "sentiment":"positive",
+        "corrected_sentiment":0
+    },
+    {
+        "text":"Grok 3s reasoning beats ChatGPT. xAI wins. - @AI_Xpert",
+        "polarity":0.3,
+        "sentiment":"positive",
+        "corrected_sentiment":0
+    },
+    {
+        "text":"Grok 3 crashed mid-query. Servers melting? - @TechX",
+        "polarity":0.0,
+        "sentiment":"neutral",
+        "corrected_sentiment":"negative"
+    },
+    {
+        "text":"Grok 3s DeepSearch is clutch for X news. - @NewsX",
+        "polarity":0.0,
+        "sentiment":"neutral",
+        "corrected_sentiment":"positive"
+    },
+    {
+        "text":"Grok 3s humor is Hitchhiker-tier. Love it. - @SciFiX",
+        "polarity":0.5,
+        "sentiment":"positive",
+        "corrected_sentiment":0
+    },
+    {
+        "text":"Grok 3s math answers are wrong. Overhyped. - @CalcX",
+        "polarity":-0.5,
+        "sentiment":"negative",
+        "corrected_sentiment":0
+    },
+    {
+        "text":"Grok 3 turned my rant into code. xAI magic. - @CreativeX",
+        "polarity":0.5,
+        "sentiment":"positive",
+        "corrected_sentiment":0
+    },
+    {
+        "text":"Grok 3s X insights are creepy good. - @VibeX",
+        "polarity":0.1,
+        "sentiment":"neutral",
+        "corrected_sentiment":"positive"
+    },
+    {
+        "text":"Grok 3 sucks at nuance. X posts misread. - @WordX",
+        "polarity":-0.3,
+        "sentiment":"negative",
+        "corrected_sentiment":0
+    },
+    {
+        "text":"Grok 3s speed is unreal. xAI delivered. - @FastX",
+        "polarity":0.0,
+        "sentiment":"neutral",
+        "corrected_sentiment":"positive"
+    },
+    {
+        "text":"Grok 3 roasted Elon. No loyalty lol. - @FanX",
+        "polarity":0.8,
+        "sentiment":"positive",
+        "corrected_sentiment":"neutral"
+    },
+    {
+        "text":"Grok 3s coding is clean. Built my site fast. - @WebX",
+        "polarity":0.2833333333,
+        "sentiment":"positive",
+        "corrected_sentiment":0
+    },
+    {
+        "text":"Grok 3s X data dive is next-level. - @StatsX",
+        "polarity":0.0,
+        "sentiment":"neutral",
+        "corrected_sentiment":"positive"
+    },
+    {
+        "text":"Grok 3s logic is tight. xAIs a beast. - @BrainX",
+        "polarity":-0.1785714286,
+        "sentiment":"negative",
+        "corrected_sentiment":"positive"
+    },
+    {
+        "text":"Grok 3s puns are lame. Expected more. - @PunX",
+        "polarity":-0.0333333333,
+        "sentiment":"neutral",
+        "corrected_sentiment":"negative"
+    },
+    {
+        "text":"Grok 3s DeepSearch owns X research. - @StudyX",
+        "polarity":0.0,
+        "sentiment":"neutral",
+        "corrected_sentiment":"positive"
+    },
+    {
+        "text":"Grok 3 explained crypto clear. Finally. - @CoinX",
+        "polarity":0.05,
+        "sentiment":"neutral",
+        "corrected_sentiment":"positive"
+    },
+    {
+        "text":"Grok 3s sass matches X chaos. Perfect. - @EdgeX",
+        "polarity":1.0,
+        "sentiment":"positive",
+        "corrected_sentiment":0
+    },
+    {
+        "text":"Grok 3 flopped on my X question. Lame. - @AskX",
+        "polarity":-0.5,
+        "sentiment":"negative",
+        "corrected_sentiment":0
+    },
+    {
+        "text":"Grok 3s reasoning is scary smart. xAI flex. - @SmartX",
+        "polarity":-0.1428571429,
+        "sentiment":"negative",
+        "corrected_sentiment":"positive"
+    },
+    {
+        "text":"Grok 3s X search found old memes. Epic. - @MemeX",
+        "polarity":0.1,
+        "sentiment":"neutral",
+        "corrected_sentiment":"positive"
+    },
+    {
+        "text":"Grok 3s code had bugs. Not impressed. - @HackX",
+        "polarity":-0.5,
+        "sentiment":"negative",
+        "corrected_sentiment":0
+    },
+    {
+        "text":"Grok 3s wit is X-tier. Keeps me laughing. - @FunX",
+        "polarity":0.0,
+        "sentiment":"neutral",
+        "corrected_sentiment":"positive"
+    },
+    {
+        "text":"Grok 3s X trend takes are on point. - @HotX",
+        "polarity":0.0,
+        "sentiment":"neutral",
+        "corrected_sentiment":"positive"
+    },
+    {
+        "text":"Grok 3s math flex is unreal. xAI rules. - @NumberX",
+        "polarity":0.0,
+        "sentiment":"neutral",
+        "corrected_sentiment":"positive"
+    },
+    {
+        "text":"Grok 3 crashed again. Servers suck. - @UserX",
+        "polarity":0.0,
+        "sentiment":"neutral",
+        "corrected_sentiment":"negative"
+    },
+    {
+        "text":"Grok 3s DeepSearch beat my research time. - @WorkX",
+        "polarity":0.0,
+        "sentiment":"neutral",
+        "corrected_sentiment":"positive"
+    },
+    {
+        "text":"Grok 3s humor is dry gold. xAI nailed it. - @JokeX",
+        "polarity":-0.0666666667,
+        "sentiment":"neutral",
+        "corrected_sentiment":"positive"
+    },
+    {
+        "text":"Grok 3 misread my X post. AI fail. - @TextX",
+        "polarity":-0.5,
+        "sentiment":"negative",
+        "corrected_sentiment":0
+    },
+    {
+        "text":"Grok 3s coding speed is insane. Love it. - @BuildX",
+        "polarity":-0.25,
+        "sentiment":"negative",
+        "corrected_sentiment":"positive"
+    },
+    {
+        "text":"Grok 3s X insights feel human. Wow. - @RealX",
+        "polarity":0.05,
+        "sentiment":"neutral",
+        "corrected_sentiment":"positive"
+    },
+    {
+        "text":"Grok 3s release was worth the wait. - @HypeX",
+        "polarity":0.3,
+        "sentiment":"positive",
+        "corrected_sentiment":0
+    },
+    {
+        "text":"Grok 3s logic outdid my prof. xAI ftw. - @EduX",
+        "polarity":0.0,
+        "sentiment":"neutral",
+        "corrected_sentiment":"positive"
+    },
+    {
+        "text":"Grok 3 sucks at jokes. Boring AI. - @PlayX",
+        "polarity":-0.65,
+        "sentiment":"negative",
+        "corrected_sentiment":0
+    },
+    {
+        "text":"Grok 3s X search is my new addiction. - @FindX",
+        "polarity":0.1363636364,
+        "sentiment":"positive",
+        "corrected_sentiment":0
+    },
+    {
+        "text":"Grok 3s reasoning is top-tier. xAI kills. - @ThinkX",
+        "polarity":0.0,
+        "sentiment":"neutral",
+        "corrected_sentiment":"positive"
+    },
+    {
+        "text":"Grok 3s code crashed my app. Trash. - @AppX",
+        "polarity":0.0,
+        "sentiment":"neutral",
+        "corrected_sentiment":"negative"
+    },
+    {
+        "text":"Grok 3s DeepSearch is Xs best tool. - @ToolX",
+        "polarity":1.0,
+        "sentiment":"positive",
+        "corrected_sentiment":0
+    },
+    {
+        "text":"Grok 3s sass is peak X energy. - @BoldX",
+        "polarity":0.0,
+        "sentiment":"neutral",
+        "corrected_sentiment":"positive"
+    },
+    {
+        "text":"Grok 3 explained X drama fast. Clutch. - @GossipX",
+        "polarity":0.2,
+        "sentiment":"positive",
+        "corrected_sentiment":0
+    },
+    {
+        "text":"Grok 3s math is off. xAI overhyped? - @SolveX",
+        "polarity":0.0,
+        "sentiment":"neutral",
+        "corrected_sentiment":"negative"
+    },
+    {
+        "text":"Grok 3s coding help is my lifeline. - @FixX",
+        "polarity":0.0,
+        "sentiment":"neutral",
+        "corrected_sentiment":"positive"
+    },
+    {
+        "text":"Grok 3s X data is unreal. xAI wins. - @InfoX",
+        "polarity":0.3,
+        "sentiment":"positive",
+        "corrected_sentiment":0
+    },
+    {
+        "text":"Grok 3s humor is weak. Expected better. - @QuipX",
+        "polarity":0.0083333333,
+        "sentiment":"neutral",
+        "corrected_sentiment":"negative"
+    },
+    {
+        "text":"Grok 3s reasoning blew me away. - @MindX",
+        "polarity":0.0,
+        "sentiment":"neutral",
+        "corrected_sentiment":"positive"
+    },
+    {
+        "text":"Grok 3s X search speed is crazy. - @RushX",
+        "polarity":-0.6,
+        "sentiment":"negative",
+        "corrected_sentiment":"positive"
+    },
+    {
+        "text":"Grok 3 flunked my science Q. Lame. - @LabX",
+        "polarity":-0.5,
+        "sentiment":"negative",
+        "corrected_sentiment":0
+    },
+    {
+        "text":"Grok 3s code is clean af. xAI rocks. - @SoftX",
+        "polarity":0.3666666667,
+        "sentiment":"positive",
+        "corrected_sentiment":0
+    },
+    {
+        "text":"Grok 3s X insights are goldmine. - @GemX",
+        "polarity":0.0,
+        "sentiment":"neutral",
+        "corrected_sentiment":"positive"
+    },
+    {
+        "text":"Grok 3s sass is overrated. Meh. - @ChillX",
+        "polarity":0.0,
+        "sentiment":"neutral",
+        "corrected_sentiment":"negative"
+    },
+    {
+        "text":"Grok 3s DeepSearch saved my essay. - @WriteX",
+        "polarity":0.0,
+        "sentiment":"neutral",
+        "corrected_sentiment":"positive"
+    },
+    {
+        "text":"Grok 3s logic is Xs best feature. - @CoreX",
+        "polarity":1.0,
+        "sentiment":"positive",
+        "corrected_sentiment":0
+    },
+    {
+        "text":"Grok 3s release hype was too much. - @CalmX",
+        "polarity":0.2,
+        "sentiment":"positive",
+        "corrected_sentiment":"negative"
+    },
+    {
+        "text":"Grok 3s math skills are unreal. - @CalcBit",
+        "polarity":0.0,
+        "sentiment":"neutral",
+        "corrected_sentiment":"positive"
+    },
+    {
+        "text":"Grok 3 sucks at X context. Lost me. - @ReadX",
+        "polarity":-0.3,
+        "sentiment":"negative",
+        "corrected_sentiment":0
+    },
+    {
+        "text":"Grok 3s coding is next-level. xAI ftw. - @TechBit",
+        "polarity":0.0,
+        "sentiment":"neutral",
+        "corrected_sentiment":"positive"
+    },
+    {
+        "text":"Grok 3s X search found rare posts. - @HuntX",
+        "polarity":0.3,
+        "sentiment":"positive",
+        "corrected_sentiment":0
+    },
+    {
+        "text":"Grok 3s humor is pure X chaos. - @WildX",
+        "polarity":0.2142857143,
+        "sentiment":"positive",
+        "corrected_sentiment":0
+    },
+    {
+        "text":"Grok 3 failed my X test. Weak. - @QuizX",
+        "polarity":-0.4375,
+        "sentiment":"negative",
+        "corrected_sentiment":0
+    },
+    {
+        "text":"Grok 3s reasoning is xAIs crown. - @PeakX",
+        "polarity":0.0,
+        "sentiment":"neutral",
+        "corrected_sentiment":"positive"
+    },
+    {
+        "text":"Grok 3s DeepSearch is my X hack. - @TrickX",
+        "polarity":0.0,
+        "sentiment":"neutral",
+        "corrected_sentiment":"positive"
+    },
+    {
+        "text":"Grok 3s code broke my site. Ugh. - @CrashX",
+        "polarity":0.0,
+        "sentiment":"neutral",
+        "corrected_sentiment":"negative"
+    },
+    {
+        "text":"Grok 3s X vibe is spot on. - @FlowX",
+        "polarity":0.0,
+        "sentiment":"neutral",
+        "corrected_sentiment":"positive"
+    },
+    {
+        "text":"Grok 3s sass is X gold. Love it. - @SnapX",
+        "polarity":0.5,
+        "sentiment":"positive",
+        "corrected_sentiment":0
+    },
+    {
+        "text":"Grok 3s math bombed my quiz. - @FailX",
+        "polarity":0.0,
+        "sentiment":"neutral",
+        "corrected_sentiment":"default_value"
+    },
+    {
+        "text":"Grok 3s coding speed is clutch. - @RunX",
+        "polarity":0.0,
+        "sentiment":"neutral",
+        "corrected_sentiment":"positive"
+    },
+    {
+        "text":"Grok 3s X insights are deep. - @DiveX",
+        "polarity":0.0,
+        "sentiment":"neutral",
+        "corrected_sentiment":"positive"
+    },
+    {
+        "text":"Grok 3s humor flopped. Boring. - @DullX",
+        "polarity":-1.0,
+        "sentiment":"negative",
+        "corrected_sentiment":0
+    },
+    {
+        "text":"Grok 3s DeepSearch owns X data. - @MineX",
+        "polarity":0.0,
+        "sentiment":"neutral",
+        "corrected_sentiment":"positive"
+    },
+    {
+        "text":"Grok 3s logic is xAIs flex. - @EdgeBit",
+        "polarity":0.0,
+        "sentiment":"neutral",
+        "corrected_sentiment":"positive"
+    },
+    {
+        "text":"Grok 3s X search lags sometimes. - @SlowX",
+        "polarity":0.0,
+        "sentiment":"neutral",
+        "corrected_sentiment":"negative"
+    },
+    {
+        "text":"Grok 3s code saved my deadline. - @TimeX",
+        "polarity":0.0,
+        "sentiment":"neutral",
+        "corrected_sentiment":"positive"
+    },
+    {
+        "text":"Grok 3s reasoning is X fire. - @BlazeX",
+        "polarity":0.0,
+        "sentiment":"neutral",
+        "corrected_sentiment":"positive"
+    },
+    {
+        "text":"Grok 3s release was epic. xAI kills. - @BoomX",
+        "polarity":0.1,
+        "sentiment":"neutral",
+        "corrected_sentiment":"positive"
+    },
+    {
+        "text":"Grok 3s math is xAIs strength. - @SumX",
+        "polarity":0.0,
+        "sentiment":"neutral",
+        "corrected_sentiment":"positive"
+    },
+    {
+        "text":"Grok 3 sucks at X slang. Lost. - @TalkX",
+        "polarity":-0.3,
+        "sentiment":"negative",
+        "corrected_sentiment":0
+    },
+    {
+        "text":"Grok 3s coding is my X savior. - @SaveX",
+        "polarity":0.0,
+        "sentiment":"neutral",
+        "corrected_sentiment":"positive"
+    },
+    {
+        "text":"Grok 3s X search is pure gold. - @RichX",
+        "polarity":0.2142857143,
+        "sentiment":"positive",
+        "corrected_sentiment":0
+    },
+    {
+        "text":"Grok 3s humor is X chaos fuel. - @MessX",
+        "polarity":0.0,
+        "sentiment":"neutral",
+        "corrected_sentiment":"positive"
+    },
+    {
+        "text":"Grok 3 flopped my X query. Sad. - @MissX",
+        "polarity":-0.5,
+        "sentiment":"negative",
+        "corrected_sentiment":0
+    },
+    {
+        "text":"Grok 3s reasoning is xAI magic. - @GlowX",
+        "polarity":0.5,
+        "sentiment":"positive",
+        "corrected_sentiment":0
+    },
+    {
+        "text":"Grok 3s DeepSearch is X king. - @TopX",
+        "polarity":0.0,
+        "sentiment":"neutral",
+        "corrected_sentiment":"positive"
+    },
+    {
+        "text":"Grok 3s code had errors. Meh. - @BugX",
+        "polarity":0.0,
+        "sentiment":"neutral",
+        "corrected_sentiment":"negative"
+    },
+    {
+        "text":"Grok 3s X vibe is unmatched. - @TuneX",
+        "polarity":0.0,
+        "sentiment":"neutral",
+        "corrected_sentiment":"positive"
+    },
+    {
+        "text":"Grok 3s sass is X perfection. - @SharpX",
+        "polarity":0.0,
+        "sentiment":"neutral",
+        "corrected_sentiment":"positive"
+    },
+    {
+        "text":"Grok 3s math failed me. xAI slip? - @DropX",
+        "polarity":-0.5,
+        "sentiment":"negative",
+        "corrected_sentiment":0
+    },
+    {
+        "text":"Grok 3s coding is X rocket fuel. - @LiftX",
+        "polarity":0.0,
+        "sentiment":"neutral",
+        "corrected_sentiment":"positive"
+    },
+    {
+        "text":"Grok 3 anticipation is unreal. xAI, hurry up! - @WaitX",
+        "polarity":0.0,
+        "sentiment":"neutral",
+        "corrected_sentiment":"positive"
+    },
+    {
+        "text":"Grok 3s coming. xAIs AI flex incoming. - @AIXpert",
+        "polarity":0.0,
+        "sentiment":"neutral",
+        "corrected_sentiment":"positive"
+    },
+    {
+        "text":"Grok 3 beta testers hyping it. xAIs got something. - @BetaBuzzX",
+        "polarity":0.0,
+        "sentiment":"neutral",
+        "corrected_sentiment":"positive"
+    },
+    {
+        "text":"Grok 3 voice rumors wild. xAIs next big thing? - @ChatX",
+        "polarity":0.0333333333,
+        "sentiment":"neutral",
+        "corrected_sentiment":0
+    },
+    {
+        "text":"Grok 3 leaks hint at power. xAIs ready to roll. - @LeakX",
+        "polarity":0.2,
+        "sentiment":"positive",
+        "corrected_sentiment":0
+    },
+    {
+        "text":"Grok 3 hype on X is nuts. xAIs moment nears. - @TrendX",
+        "polarity":0.0,
+        "sentiment":"neutral",
+        "corrected_sentiment":"positive"
+    },
+    {
+        "text":"Grok 3 beta vibes strong. xAIs killing it. - @VibeX",
+        "polarity":0.4333333333,
+        "sentiment":"positive",
+        "corrected_sentiment":0
+    },
+    {
+        "text":"Grok 3s gonna be huge. xAIs AI takeover starts. - @FutureX",
+        "polarity":0.4,
+        "sentiment":"positive",
+        "corrected_sentiment":0
+    },
+    {
+        "text":"Grok 3 voice mode buzz. xAIs raising the bar. - @BuzzX",
+        "polarity":0.0,
+        "sentiment":"neutral",
+        "corrected_sentiment":"positive"
+    },
+    {
+        "text":"Grok 3 rumors everywhere. xAIs big reveal soon? - @RumorX",
+        "polarity":0.0,
+        "sentiment":"neutral",
+        "corrected_sentiment":"positive"
+    },
+    {
+        "text":"Grok 3 anticipation crazy. xAIs got us hooked. - @HookX",
+        "polarity":-0.6,
+        "sentiment":"negative",
+        "corrected_sentiment":"positive"
+    },
+    {
+        "text":"Grok 3 leaks sound dope. xAIs next beast? - @DopeX",
+        "polarity":0.2,
+        "sentiment":"positive",
+        "corrected_sentiment":"neutral"
+    },
+    {
+        "text":"Grok 3 voice hype real. xAIs on fire. - @FireX",
+        "polarity":0.2,
+        "sentiment":"positive",
+        "corrected_sentiment":0
+    },
+    {
+        "text":"Grok 3 sucks at nuance. xAI overhyped? - @CriticX",
+        "polarity":-0.3,
+        "sentiment":"negative",
+        "corrected_sentiment":0
+    },
+    {
+        "text":"Grok 3s DeepSearch is clutch. xAI wins. - @SearchX",
+        "polarity":0.3,
+        "sentiment":"positive",
+        "corrected_sentiment":0
+    },
+    {
+        "text":"Grok 3 roasted my code. xAIs savage. - @CodeX",
+        "polarity":0.0,
+        "sentiment":"neutral",
+        "corrected_sentiment":"positive"
+    },
+    {
+        "text":"Grok 3s math skills flex. xAIs a beast. - @MathX",
+        "polarity":0.0,
+        "sentiment":"neutral",
+        "corrected_sentiment":"positive"
+    },
+    {
+        "text":"Grok 3s humor is weak. xAI slipped? - @JokeX",
+        "polarity":-0.375,
+        "sentiment":"negative",
+        "corrected_sentiment":0
+    },
+    {
+        "text":"Code from Grok 3 breaks. xAI meh. - @BreakX",
+        "polarity":0.0,
+        "sentiment":"neutral",
+        "corrected_sentiment":"default_value"
+    },
+    {
+        "text":"Grok 3 rumors true. xAI slays. - @TrueX",
+        "polarity":0.35,
+        "sentiment":"positive",
+        "corrected_sentiment":0
+    },
+
+    {
+        "text":"DeepSearch on Grok 3 fast. xAI ftw. - @DigX",
+        "polarity":0.2,
+        "sentiment":"positive",
+        "corrected_sentiment":0
+    },
+    {
+        "text":"Grok 3s coding shines. xAI dope. - @BuildX",
+        "polarity":0.0,
+        "sentiment":"neutral",
+        "corrected_sentiment":"positive"
+    },
+    {
+        "text":"Grok 3s speed wild. xAI kills. - @ZoomX",
+        "polarity":0.1,
+        "sentiment":"neutral",
+        "corrected_sentiment":"positive"
+    },
+    {
+        "text":"Grok 3 missed X vibe. xAI meh. - @MissX",
+        "polarity":0.0,
+        "sentiment":"neutral",
+        "corrected_sentiment":"negative"
+    },
+    {
+        "text":"Logic from Grok 3 fire. xAI rules. - @BlazeX",
+        "polarity":0.0,
+        "sentiment":"neutral",
+        "corrected_sentiment":"positive"
+    },
+    {
+        "text":"Grok 3 crashed again. xAI fix! - @DownX",
+        "polarity":0.0,
+        "sentiment":"neutral",
+        "corrected_sentiment":"negative"
+    },
+    {
+        "text":"X loves Grok 3s edge. xAI tight. - @SharpX",
+        "polarity":-0.1785714286,
+        "sentiment":"negative",
+        "corrected_sentiment":"positive"
+    },
+    {
+        "text":"Grok 3s math clutch. xAI shines. - @NumX",
+        "polarity":0.0,
+        "sentiment":"neutral",
+        "corrected_sentiment":"positive"
+    },
+    {
+        "text":"Grok 3s sass weak. xAI slip? - @FlatX",
+        "polarity":-0.375,
+        "sentiment":"negative",
+        "corrected_sentiment":"negative"
+    },
+    {
+        "text":"Grok 3s X search dope. xAI wins. - @FindX",
+        "polarity":0.3,
+        "sentiment":"positive",
+        "corrected_sentiment":"positive"
+    },
+    {
+        "text":"Grok 3s reasoning deep. xAI gold. - @DeepX",
+        "polarity":0.0,
+        "sentiment":"neutral",
+        "corrected_sentiment":"positive"
+    },
+    {
+        "text":"Code on Grok 3 bugs. xAI ugh. - @BugX",
+        "polarity":0.0,
+        "sentiment":"neutral",
+        "corrected_sentiment":"negative"
+    },
+    {
+        "text":"Grok 3s speed rocks. xAI ftw. - @RushX",
+        "polarity":0.0,
+        "sentiment":"neutral",
+        "corrected_sentiment":"positive"
+    },
+    {
+        "text":"Grok 3s wit sharp. xAI kills. - @CutX",
+        "polarity":-0.125,
+        "sentiment":"negative",
+        "corrected_sentiment":"positive"
+    },
+    {
+        "text":"Math from Grok 3 off. xAI meh. - @ErrX",
+        "polarity":0.0,
+        "sentiment":"neutral",
+        "corrected_sentiment":"negative"
+    },
+    {
+        "text":"Grok 3 owns X data. xAI rules. - @DataX",
+        "polarity":0.0,
+        "sentiment":"neutral",
+        "corrected_sentiment":"positive"
+    },
+    {
+        "text":"Grok 3s coding fast. xAI shines. - @RunX",
+        "polarity":0.2,
+        "sentiment":"positive",
+        "corrected_sentiment":"positive"
+    },
+    {
+        "text":"Grok 3 out here solving math like its no biggie. xAI wildin.",
+        "polarity":0.0,
+        "sentiment":"neutral",
+        "corrected_sentiment":"positive"
+    },
+    {
+        "text":"Yo, xAI dropped Grok 3 and my codes still trash. Help?",
+        "polarity":0.0,
+        "sentiment":"neutral",
+        "corrected_sentiment":"negative"
+    },
+    {
+        "text":"Heard Grok 3s voice mode coming. Bout to talk smack to it.",
+        "polarity":0.0,
+        "sentiment":"neutral",
+        "corrected_sentiment":0
+    },
+    {
+        "text":"Grok 3 crashed again. xAI, my dude, whats good?",
+        "polarity":0.7,
+        "sentiment":"positive",
+        "corrected_sentiment":"negative"
+    },
+    {
+        "text":"DeepSearch on Grok 3 just dug up my old X rants. Creepy.",
+        "polarity":-0.2,
+        "sentiment":"negative",
+        "corrected_sentiment":"positive"
+    },
+    {
+        "text":"xAIs Grok 3 got sass but cant handle my dumb Qs.",
+        "polarity":-0.375,
+        "sentiment":"negative",
+        "corrected_sentiment":0
+    },
+    {
+        "text":"Grok 3 hype was loud, but its glitchy af. xAI fix this.",
+        "polarity":0.1,
+        "sentiment":"neutral",
+        "corrected_sentiment":"negative"
+    },
+    {
+        "text":"Whys Grok 3 roasting me better than my boys? xAI magic.",
+        "polarity":0.5,
+        "sentiment":"positive",
+        "corrected_sentiment":0
+    },
+    {
+        "text":"Grok 3s speed thoblinked and it answered. xAI on point.",
+        "polarity":0.0,
+        "sentiment":"neutral",
+        "corrected_sentiment":"positive"
+    },
+    {
+        "text":"Tried Grok 3 for X trends. Now Im lost in meme hell.",
+        "polarity":0.0,
+        "sentiment":"neutral",
+        "corrected_sentiment":0
+    },
+    {
+        "text":"xAIs Grok 3 keeps bombing my math. Whats up with that?",
+        "polarity":0.0,
+        "sentiment":"neutral",
+        "corrected_sentiment":"negative"
+    },
+    {
+        "text":"Grok 3s got wit, but it flopped my physics homework.",
+        "polarity":0.0,
+        "sentiment":"neutral",
+        "corrected_sentiment":"negative"
+    },
+    {
+        "text":"Voice mode when? Grok 3 better sound like Elon or bust.",
+        "polarity":0.45,
+        "sentiment":"positive",
+        "corrected_sentiment":"neutral"
+    },
+    {
+        "text":"Grok 3s DeepSearch found X gold. xAIs my new plug.",
+        "polarity":0.1363636364,
+        "sentiment":"positive",
+        "corrected_sentiment":"positive"
+    },
+    {
+        "text":"xAI hyped Grok 3 too hard. Its just okay, fam.",
+        "polarity":0.1041666667,
+        "sentiment":"positive",
+        "corrected_sentiment":"neutral"
+    },
+    {
+        "text":"Grok 3 coded my app in 5 mins. Im shook, xAI.",
+        "polarity":0.0,
+        "sentiment":"neutral",
+        "corrected_sentiment":"positive"
+    },
+    {
+        "text":"This Grok 3 bugs got me raging. xAI, do better.",
+        "polarity":0.5,
+        "sentiment":"positive",
+        "corrected_sentiment":"negative"
+    },
+    {
+        "text":"Grok 3s X search is my cheat code now. Thanks, xAI.",
+        "polarity":0.2,
+        "sentiment":"positive",
+        "corrected_sentiment":0
+    },
+    {
+        "text":"Grok 3 tried to explain crypto. Still broke, tho.",
+        "polarity":0.0,
+        "sentiment":"neutral",
+        "corrected_sentiment":0
+    },
+    {
+        "text":"xAIs Grok 3 got me laughing at its dumb puns.",
+        "polarity":-0.375,
+        "sentiment":"negative",
+        "corrected_sentiment":"positive"
+    },
+    {
+        "text":"Grok 3s reasoning is fire, but it crashed mid-thought.",
+        "polarity":0.0,
+        "sentiment":"neutral",
+        "corrected_sentiment":0
+    },
+    {
+        "text":"Whys Grok 3 so fast? xAI juiced this thing up.",
+        "polarity":0.2,
+        "sentiment":"positive",
+        "corrected_sentiment":0
+    },
+    {
+        "text":"Grok 3s sass hit me out of nowhere. xAI wild.",
+        "polarity":0.1,
+        "sentiment":"neutral",
+        "corrected_sentiment":"positive"
+    },
+    {
+        "text":"Told Grok 3 my X woes. It just said yikes. Fair.",
+        "polarity":0.7,
+        "sentiment":"positive",
+        "corrected_sentiment":0
+    },
+    {
+        "text":"Grok 3s math skills saved my grade. xAI clutch.",
+        "polarity":0.0,
+        "sentiment":"neutral",
+        "corrected_sentiment":"positive"
+    },
+    {
+        "text":"xAIs Grok 3 flopped my riddle. AI aint that smart.",
+        "polarity":0.2142857143,
+        "sentiment":"positive",
+        "corrected_sentiment":"negative"
+    },
+    {
+        "text":"Grok 3s DeepSearch owns X. Digging up dirt fast.",
+        "polarity":0.2,
+        "sentiment":"positive",
+        "corrected_sentiment":0
+    },
+    {
+        "text":"Grok 3s voice mode hype got me waiting. xAI deliver.",
+        "polarity":0.0,
+        "sentiment":"neutral",
+        "corrected_sentiment":"positive"
+    },
+    {
+        "text":"xAI dropped Grok 3 and its already my X lifeline.",
+        "polarity":0.0,
+        "sentiment":"neutral",
+        "corrected_sentiment":0
+    },
+    {
+        "text":"Grok 3s humors dry af. xAI knows my vibe.",
+        "polarity":-0.0666666667,
+        "sentiment":"neutral",
+        "corrected_sentiment":"positive"
+    },
+    {
+        "text":"Grok 3 keeps freezing. xAI, this aint it, bro.",
+        "polarity":0.0,
+        "sentiment":"neutral",
+        "corrected_sentiment":"negative"
+    },
+    {
+        "text":"Asked Grok 3 about X drama. Got tea in seconds.",
+        "polarity":0.0,
+        "sentiment":"neutral",
+        "corrected_sentiment":"positive"
+    },
+    {
+        "text":"Grok 3s coding game strong. xAIs got my back.",
+        "polarity":0.0111111111,
+        "sentiment":"neutral",
+        "corrected_sentiment":"positive"
+    },
+    {
+        "text":"xAIs Grok 3 overhyped? Nah, its legit fire.",
+        "polarity":0.0,
+        "sentiment":"neutral",
+        "corrected_sentiment":"positive"
+    },
+    {
+        "text":"Grok 3s X insights wild. Hows it this good?",
+        "polarity":0.4,
+        "sentiment":"positive",
+        "corrected_sentiment":0
+    },
+    {
+        "text":"Grok 3 flunked my science Q. xAI, step up.",
+        "polarity":0.0,
+        "sentiment":"neutral",
+        "corrected_sentiment":"default_value"
+    },
+    {
+        "text":"DeepSearch on Grok 3 is my X stalker now.",
+        "polarity":0.0,
+        "sentiment":"neutral",
+        "corrected_sentiment":"positive"
+    },
+    {
+        "text":"Grok 3s speeds unreal, but bugs killin me.",
+        "polarity":0.0,
+        "sentiment":"neutral",
+        "corrected_sentiment":0
+    },
+    {
+        "text":"xAIs Grok 3 roasted my last X post. Savage.",
+        "polarity":0.0,
+        "sentiment":"neutral",
+        "corrected_sentiment":"positive"
+    },
+    {
+        "text":"Grok 3s math flex got me geeking. xAI wins.",
+        "polarity":0.3,
+        "sentiment":"positive",
+        "corrected_sentiment":0
+    },
+    {
+        "text":"Grok 3s voice mode better slap. xAI, dont flop.",
+        "polarity":0.5,
+        "sentiment":"positive",
+        "corrected_sentiment":0
+    },
+    {
+        "text":"xAIs Grok 3 crashed mid-X search. Pain.",
+        "polarity":0.0,
+        "sentiment":"neutral",
+        "corrected_sentiment":"negative"
+    },
+    {
+        "text":"Grok 3s wits on point. xAIs AI got soul.",
+        "polarity":0.0,
+        "sentiment":"neutral",
+        "corrected_sentiment":"positive"
+    },
+    {
+        "text":"Grok 3 coded my mess clean. xAIs a goat.",
+        "polarity":0.0958333333,
+        "sentiment":"neutral",
+        "corrected_sentiment":"positive"
+    },
+    {
+        "text":"Grok 3s X game too strong. xAI owns this.",
+        "polarity":0.0166666667,
+        "sentiment":"neutral",
+        "corrected_sentiment":"positive"
+    },
+    {
+        "text":"Grok 3s hype real, but its buggy. xAI fix.",
+        "polarity":0.2,
+        "sentiment":"positive",
+        "corrected_sentiment":"negative"
+    },
+    {
+        "text":"DeepSearch hit me with X facts. Grok 3 rules.",
+        "polarity":0.0,
+        "sentiment":"neutral",
+        "corrected_sentiment":"positive"
+    },
+    {
+        "text":"Grok 3s reasonings deep. xAIs brain flex.",
+        "polarity":0.0,
+        "sentiment":"neutral",
+        "corrected_sentiment":"positive"
+    },
+    {
+        "text":"xAIs Grok 3 got me hooked on its X tricks.",
+        "polarity":0.0,
+        "sentiment":"neutral",
+        "corrected_sentiment":"positive"
+    },
+    {
+        "text":"Grok 3 flopped my joke. xAI, work on funny.",
+        "polarity":0.25,
+        "sentiment":"positive",
+        "corrected_sentiment":"neutral"
+    },
+    {
+        "text":"Groks got edge over ChatGPT with X integration, but its still glitchy as hell.",
+        "polarity":0.0,
+        "sentiment":"neutral",
+        "corrected_sentiment":"positive"
+    },
+    {
+        "text":"Claude smokes Grok on reasoning, no contest, xAIs got work to do.",
+        "polarity":0.0,
+        "sentiment":"neutral",
+        "corrected_sentiment":"negative"
+    },
+    {
+        "text":"Groks DeepSearch is dope, beats Gemini for real-time X digs.",
+        "polarity":0.0,
+        "sentiment":"neutral",
+        "corrected_sentiment":"positive"
+    },
+    {
+        "text":"ChatGPTs smoother than Grok, but Groks sass is unmatched.",
+        "polarity":0.0,
+        "sentiment":"neutral",
+        "corrected_sentiment":0
+    },
+    {
+        "text":"Grok vs Claude? Claudes got depth, Groks just loud.",
+        "polarity":0.1,
+        "sentiment":"neutral",
+        "corrected_sentiment":"negative"
+    },
+    {
+        "text":"Groks faster than ChatGPT on X trends, but half the answers flop.",
+        "polarity":-0.1666666667,
+        "sentiment":"negative",
+        "corrected_sentiment":0
+    },
+    {
+        "text":"Geminis cleaner than Grok, xAIs AI feels like beta still.",
+        "polarity":0.0,
+        "sentiment":"neutral",
+        "corrected_sentiment":"negative"
+    },
+    {
+        "text":"Groks humor kills ChatGPTs, but its dumber on facts.",
+        "polarity":0.0,
+        "sentiment":"neutral",
+        "corrected_sentiment":0
+    },
+    {
+        "text":"Claudes writing trumps Grok, xAIs bot too chaotic.",
+        "polarity":0.0,
+        "sentiment":"neutral",
+        "corrected_sentiment":"negative"
+    },
+    {
+        "text":"Groks X tie-in beats ChatGPTs stale data, hands down.",
+        "polarity":-0.3277777778,
+        "sentiment":"negative",
+        "corrected_sentiment":"positive"
+    },
+    {
+        "text":"Groks a meme next to ChatGPT, cant even code right.",
+        "polarity":0.1428571429,
+        "sentiment":"positive",
+        "corrected_sentiment":"negative"
+    },
+    {
+        "text":"Geminis got polish, Groks raw and messykinda love it.",
+        "polarity":0.1346153846,
+        "sentiment":"positive",
+        "corrected_sentiment":0
+    },
+    {
+        "text":"Grok vs Claude: Claudes precise, Groks a wild card.",
+        "polarity":0.25,
+        "sentiment":"positive",
+        "corrected_sentiment":0
+    },
+    {
+        "text":"ChatGPT owns Grok on structure, but Groks got soul.",
+        "polarity":0.0,
+        "sentiment":"neutral",
+        "corrected_sentiment":0
+    },
+    {
+        "text":"Groks DeepSearch shames Gemini, real-time game strong.",
+        "polarity":0.0166666667,
+        "sentiment":"neutral",
+        "corrected_sentiment":"positive"
+    },
+    {
+        "text":"Groks less woke than ChatGPT, but its sloppy af.",
+        "polarity":-0.2916666667,
+        "sentiment":"negative",
+        "corrected_sentiment":0
+    },
+    {
+        "text":"Claudes reasoning laps Grok, xAI overhyped this one.",
+        "polarity":0.0,
+        "sentiment":"neutral",
+        "corrected_sentiment":"negative"
+    },
+    {
+        "text":"Groks X edge over ChatGPT is clutch for news.",
+        "polarity":0.0,
+        "sentiment":"neutral",
+        "corrected_sentiment":"positive"
+    },
+    {
+        "text":"Geminis UI beats Groks, xAI needs to step up.",
+        "polarity":0.0,
+        "sentiment":"neutral",
+        "corrected_sentiment":"negative"
+    },
+    {
+        "text":"Groks sassier than Claude, but Claudes smarter.",
+        "polarity":0.0,
+        "sentiment":"neutral",
+        "corrected_sentiment":0
+    },
+    {
+        "text":"ChatGPTs reliability crushes Groks random vibes.",
+        "polarity":-0.5,
+        "sentiment":"negative",
+        "corrected_sentiment":0
+    },
+    {
+        "text":"Groks got potential, but Geminis already there.",
+        "polarity":0.0,
+        "sentiment":"neutral",
+        "corrected_sentiment":0
+    },
+    {
+        "text":"Grok vs Claude? Groks fun, Claudes functional.",
+        "polarity":0.3,
+        "sentiment":"positive",
+        "corrected_sentiment":"positive"
+    },
+    {
+        "text":"ChatGPTs polish makes Grok look like a toy.",
+        "polarity":0.0,
+        "sentiment":"neutral",
+        "corrected_sentiment":"negative"
+    },
+    {
+        "text":"Groks X hookup outshines Geminis web crawl.",
+        "polarity":0.0,
+        "sentiment":"neutral",
+        "corrected_sentiment":"positive"
+    },
+    {
+        "text":"Groks a mess next to Claude, but its got spirit.",
+        "polarity":-0.0875,
+        "sentiment":"neutral",
+        "corrected_sentiment":"negative"
+    },
+    {
+        "text":"ChatGPTs boring but works, Groks wild and breaks.",
+        "polarity":-0.45,
+        "sentiment":"negative",
+        "corrected_sentiment":0
+    },
+    {
+        "text":"Groks DeepSearch owns ChatGPT for X scoops.",
+        "polarity":0.0,
+        "sentiment":"neutral",
+        "corrected_sentiment":"positive"
+    },
+    {
+        "text":"Geminis smoother, Groks too rough around edges.",
+        "polarity":-0.1,
+        "sentiment":"neutral",
+        "corrected_sentiment":"negative"
+    },
+    {
+        "text":"Groks humor beats Claudes, but thats about it.",
+        "polarity":0.0,
+        "sentiment":"neutral",
+        "corrected_sentiment":"positive"
+    },
+    {
+        "text":"ChatGPTs consistency kills Groks hit-or-miss.",
+        "polarity":0.0,
+        "sentiment":"neutral",
+        "corrected_sentiment":"negative"
+    },
+    {
+        "text":"Groks X advantage over Gemini is real, tho.",
+        "polarity":0.2,
+        "sentiment":"positive",
+        "corrected_sentiment":0
+    },
+    {
+        "text":"Claudes depth buries Grok, xAIs just flexing.",
+        "polarity":0.0,
+        "sentiment":"neutral",
+        "corrected_sentiment":"negative"
+    },
+    {
+        "text":"Groks faster than ChatGPT, but less on point.",
+        "polarity":-0.1666666667,
+        "sentiment":"negative",
+        "corrected_sentiment":"neutral"
+    },
+    {
+        "text":"Geminis got Grok beat on clarity, no doubt.",
+        "polarity":0.0,
+        "sentiment":"neutral",
+        "corrected_sentiment":"negative"
+    },
+    {
+        "text":"Groks X tie-in makes ChatGPT feel old-school.",
+        "polarity":0.0,
+        "sentiment":"neutral",
+        "corrected_sentiment":"positive"
+    },
+    {
+        "text":"Grok vs Claude: Claudes pro, Groks amateur.",
+        "polarity":-0.25,
+        "sentiment":"negative",
+        "corrected_sentiment":0
+    },
+    {
+        "text":"ChatGPTs safer bet than Groks chaos energy.",
+        "polarity":0.0,
+        "sentiment":"neutral",
+        "corrected_sentiment":"negative"
+    },
+    {
+        "text":"Groks DeepSearch edges Gemini on X vibes.",
+        "polarity":0.0,
+        "sentiment":"neutral",
+        "corrected_sentiment":"positive"
+    },
+    {
+        "text":"Groks less stiff than ChatGPT, but dumber too.",
+        "polarity":-0.1904761905,
+        "sentiment":"negative",
+        "corrected_sentiment":0
+    },
+    {
+        "text":"Claudes logic outclasses Groks hot mess.",
+        "polarity":0.0375,
+        "sentiment":"neutral",
+        "corrected_sentiment":"negative"
+    },
+    {
+        "text":"Groks X speed beats ChatGPTs slow crawl.",
+        "polarity":-0.3,
+        "sentiment":"negative",
+        "corrected_sentiment":"positive"
+    },
+    {
+        "text":"Geminis refinement shows up Groks bugs.",
+        "polarity":0.0,
+        "sentiment":"neutral",
+        "corrected_sentiment":"negative"
+    },
+    {
+        "text":"Groks got flair, but Claudes got brains.",
+        "polarity":0.0,
+        "sentiment":"neutral",
+        "corrected_sentiment":0
+    },
+    {
+        "text":"ChatGPTs polish wipes Groks sloppy tries.",
+        "polarity":-0.2583333333,
+        "sentiment":"negative",
+        "corrected_sentiment":"default_value"
+    },
+    {
+        "text":"Groks X link gives it legs over Gemini.",
+        "polarity":0.0,
+        "sentiment":"neutral",
+        "corrected_sentiment":"default_value"
+    },
+    {
+        "text":"Groks a clown next to Claudes professor.",
+        "polarity":0.0,
+        "sentiment":"neutral",
+        "corrected_sentiment":"negative"
+    },
+    {
+        "text":"ChatGPTs tame, Groks unhinged pick your poison.",
+        "polarity":-0.2166666667,
+        "sentiment":"negative",
+        "corrected_sentiment":0
+    },
+    {
+        "text":"Groks DeepSearch tops Gemini for X juice.",
+        "polarity":0.0,
+        "sentiment":"neutral",
+        "corrected_sentiment":"positive"
+    },
+    {
+        "text":"Groks rawer than ChatGPT, but less sharp.",
+        "polarity":-0.1458333333,
+        "sentiment":"negative",
+        "corrected_sentiment":0
+    }
+]

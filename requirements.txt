@@ -1,0 +1,9 @@
+spacy==3.5.0
+tweepy==4.10.0
+pandas==1.5.3
+scikit-learn==1.2.0
+vaderSentiment==3.3.2
+matplotlib==3.6.3
+numpy==1.23.5
+flask==2.2.2
+python-dotenv==1.0.0
